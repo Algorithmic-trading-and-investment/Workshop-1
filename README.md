@@ -1,6 +1,10 @@
-# Assignment-1
+# Git, GitHub and RMarkdown
 
 ## Learning outcomes
 
-1. Learning how to access RStudio Server 
-2. Learning how to use Git version control
+By the end of this practical you should be able to:
+
+1. Explain the use of and differences between Git and GitHub
+1. Create reproducible and open R code
+1. Produce RMarkdown documents that explain code and analysis
+
