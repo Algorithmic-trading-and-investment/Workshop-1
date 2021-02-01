@@ -51,11 +51,14 @@ The tools you will use are:
 
 * Queen' Management School Remote Analytics Desktop [Q-RaP](https://q-rap.qub.ac.uk:8787)
 
-![](/home/barryq/R/FML/img/qms_rstudio_login.png)
+
+
 
 * RStudio is a graphical user interface (that you should already be familiar with) --- it contains a number of features which make it excellent for authoring reproducible and open geographic data science work.
+```{r, echo=FALSE, cache=TRUE}
+knitr::include_graphics("/home/barryq/R/FML/img/qms_rstudio_home.png")
+```
 
-![](/home/barryq/R/FML/img/qms_rstudio_home.png)
 * RMarkdown is a version of the Markdown markup language which enables plain text to be formatted to contain links to data, code to run, text to explain what you a producing and metadata to tell your software what kinds of outputs to generate from your markdown code. For more information on RMarkdown look [here](https://rmarkdown.rstudio.com/).
 
 * Git is a software version control system which allows you to keep track of the code you produce and the changes that you or others make to it.
@@ -142,7 +145,11 @@ And here is what the process of creating these directories looks like from the t
 
 2.  We will give you a link to the material, either through email or the class page. This will happen for each new workshop. Then follow the instructions for getting the workshop repository set up. You should now have a repository for this workshop. Note that after you accept an assignment for the first time, we will send you an invite to join the classroom organization as a member. Please accept this. You will probably get an email with the invitation, but you should also see a link at the top of your main GitHub page. Here is an image of what you should see after clicking the link:
 
-![Alt Text](img/accept-assignment.png)
+```{r, echo=FALSE, cache=TRUE}
+/home/barryq/R/FML/img/qms_rstudio_login.png
+knitr::include_graphics("/home/barryq/R/FML/img/GitHub Classroom.png")
+```
+
 
 3. Enter the workshop repository on GitHub (this is online--GitHub is different from Git!). Click “Clone or Download”, and make sure it says “Clone with SSH” in bold in the top left of the pop-up box. If not, click on the blue “Use SSH” button on the top right of the pop-up box. Now copy the link in the box to your clipboard.
 
