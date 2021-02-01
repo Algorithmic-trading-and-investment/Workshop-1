@@ -146,7 +146,6 @@ And here is what the process of creating these directories looks like from the t
 2.  We will give you a link to the material, either through email or the class page. This will happen for each new workshop. Then follow the instructions for getting the workshop repository set up. You should now have a repository for this workshop. Note that after you accept an assignment for the first time, we will send you an invite to join the classroom organization as a member. Please accept this. You will probably get an email with the invitation, but you should also see a link at the top of your main GitHub page. Here is an image of what you should see after clicking the link:
 
 ```{r, echo=FALSE, cache=TRUE}
-/home/barryq/R/FML/img/qms_rstudio_login.png
 knitr::include_graphics("/home/barryq/R/FML/img/GitHub Classroom.png")
 ```
 
