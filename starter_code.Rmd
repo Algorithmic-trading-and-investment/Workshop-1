@@ -56,7 +56,7 @@ The tools you will use are:
 
 * RStudio is a graphical user interface (that you should already be familiar with) --- it contains a number of features which make it excellent for authoring reproducible and open geographic data science work.
 ```{r, echo=FALSE, cache=TRUE}
-knitr::include_graphics("/home/barryq/R/FML/img/qms_rstudio_home.png")
+knitr::include_graphics("https://raw.githubusercontent.com/barryquinn1/FML/main/img/qms_rstudio_home.png?token=APAXLIHCQP5ZOLU3FSTJWZTAFJ4YA")
 ```
 
 * RMarkdown is a version of the Markdown markup language which enables plain text to be formatted to contain links to data, code to run, text to explain what you a producing and metadata to tell your software what kinds of outputs to generate from your markdown code. For more information on RMarkdown look [here](https://rmarkdown.rstudio.com/).
@@ -146,7 +146,7 @@ And here is what the process of creating these directories looks like from the t
 2.  We will give you a link to the material, either through email or the class page. This will happen for each new workshop. Then follow the instructions for getting the workshop repository set up. You should now have a repository for this workshop. Note that after you accept an assignment for the first time, we will send you an invite to join the classroom organization as a member. Please accept this. You will probably get an email with the invitation, but you should also see a link at the top of your main GitHub page. Here is an image of what you should see after clicking the link:
 
 ```{r, echo=FALSE, cache=TRUE}
-knitr::include_graphics("/home/barryq/R/FML/img/GitHub Classroom.png")
+knitr::include_graphics("https://raw.githubusercontent.com/barryquinn1/FML/main/img/GitHub%20Classroom.png?token=APAXLIDNO2KWDQPGWICF2CTAFJ5FQ")
 ```
 
 
@@ -219,7 +219,7 @@ It's also not limited to R code!!! To change the code language all you have to d
 The best way to create a R Markdown files is
 >>>File > New File > R Markdown
 
-![](/home/barryq/R/FML/img/qms_rstudio_rmarkdown.png)
+![](https://raw.githubusercontent.com/barryquinn1/FML/main/img/qms_rstudio_rmarkdown.png?token=APAXLIFUBQ5NJUMG3JP7FDLAFJ5K2)
 
 ### HTML
 
