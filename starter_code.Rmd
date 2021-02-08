@@ -2,7 +2,7 @@
 title: "Workshop 1 Git, GitHub and RMarkdown"
 subtitle: "Starter code"
 author: "Barry Quinn"
-date: "30/01/2021 (updated `r Sys.Date()`"
+date: "30/01/2021 (updated `r Sys.Date()`)"
 output: html_document
 ---
 # Git, GitHub and RMarkdown
